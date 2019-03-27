@@ -1,5 +1,15 @@
-https://mybinder.org/v2/gh/flecumberry/seys/master
-
 # Señales y Sistemas
 
-En este repositorio hay algunos scripts (Python 3) preparados para mostrar algunos aspectos de los temas cubiertos en el curso de Señales y Sistemas de la carrera de Ingeniería Eléctrica (Facultad de Ingeniería, Universidad de la República)
+En este repositorio hay algunos scripts (Python 3) preparados para
+mostrar algunos aspectos de los temas cubiertos en el curso de Señales
+y Sistemas de la carrera de Ingeniería Eléctrica (Facultad de
+Ingeniería, Universidad de la República)
+
+Los scripts están disponibles en https://github.com/flecumberry/seys
+bajo el formato de Jupyter Notebooks.
+
+Se puede ejecutar de forma interactiva a través del siguiente enlace
+sin necesidad de tener un usuario https://mybinder.org/v2/gh/flecumberry/seys/master
+
+También puede copiarse al entorno Colaboratory de Google y ejecutarlo
+interactivamente desde ahí; se precisa un usuario de GMail.
