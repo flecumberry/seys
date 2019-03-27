@@ -23,3 +23,4 @@ https://mybinder.org/v2/gh/flecumberry/seys/master
 interactivamente desde ahí; se precisa un usuario de GMail. Para esto
 se puede seguir el enlace de "Open in Colab".
 
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flecumberry/seys/blob/master/seys_simulacion_sistema.ipynb)
