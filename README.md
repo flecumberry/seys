@@ -7,7 +7,7 @@ Ingeniería, Universidad de la República)
 
 Los scripts están disponibles en https://github.com/flecumberry/seys
 bajo el formato de Jupyter Notebooks (*.ipynb). Este formato permite
-ejecutar de forma interactivo scripts de varios lenguajes a través de
+ejecutar de forma interactiva scripts de varios lenguajes a través de
 un navegador web.
 
 ## Cómo ejecutarlos?
@@ -16,7 +16,7 @@ un navegador web.
 sin necesidad de crear un usuario
 https://mybinder.org/v2/gh/flecumberry/seys/master
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/flecumberry/seys/master)
 
 
 * También puede copiarse al entorno Colaboratory de Google y ejecutarlo
