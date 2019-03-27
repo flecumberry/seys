@@ -10,10 +10,16 @@ bajo el formato de Jupyter Notebooks (*.ipynb). Este formato permite
 ejecutar de forma interactivo scripts de varios lenguajes a través de
 un navegador web.
 
-Se puede ejecutar de forma interactiva a través del siguiente enlace
+## Cómo ejecutarlos?
+
+* Se puede ejecutar de forma interactiva a través del siguiente enlace
 sin necesidad de crear un usuario
 https://mybinder.org/v2/gh/flecumberry/seys/master
 
-También puede copiarse al entorno Colaboratory de Google y ejecutarlo
+
+
+
+* También puede copiarse al entorno Colaboratory de Google y ejecutarlo
 interactivamente desde ahí; se precisa un usuario de GMail. Para esto
-se puede seguir el enlace a través de una figura.
+se puede seguir el enlace de "Open in Colab".
+
